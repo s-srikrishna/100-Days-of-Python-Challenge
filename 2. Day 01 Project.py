@@ -3,7 +3,7 @@ This is the Day 01 project.
 
 It is a Band name Generator.
 
-It uses some functionalities like print(), input(), string concatenation.
+It uses some functionalities like print(), input() and string concatenation.
 '''
 print("\nWelcome to the Band Name Generator.\n")
 
