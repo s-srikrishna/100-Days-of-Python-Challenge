@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone, Welcome to 100 Days of Python Challenge</h1>
-<h3 align="center">This repository mainly focuses of developing one's Python skills from zero to advanced for absolute free of cost! And also, you will get my contact details, via which, you can reach me out for any doubts regarding the concept (or) the repository. Reach me via <a href="s.srikrishna.official@gmail.com">Gmail</a>/h3>
+<h3 align="center">This repository mainly focuses of developing one's Python skills from zero to advanced for absolute free of cost! And also, you will get my contact details, via which, you can reach me out for any doubts regarding the concept (or) the repository. Reach me via <a href="s.srikrishna.official@gmail.com">Gmail</a></h3>
 
 <img src="https://wallpapers.com/images/hd/1920-x-1080-hd-1qq8r4pnn8cmcew4.jpg">
 
